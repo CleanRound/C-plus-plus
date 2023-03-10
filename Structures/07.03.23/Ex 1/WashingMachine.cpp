@@ -1,6 +1,5 @@
 #include "WashingMachine.h"
 
-
 void WashingMachine::performWash() {
     cout << "Performing the wash cycle..." << endl;
 }
